@@ -8,8 +8,8 @@
 ### 🌐 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Imran--orgin-181717?style=for-the-badge&logo=github)](https://github.com/Imran-orgin)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranfahmi2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-add--your--link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/imran-fahmi/))
+[![Email](https://img.shields.io/badge/Email-imranfahmi2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranfahmi2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imran--fahmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-fahmi/)
 
 ---
 
@@ -22,15 +22,17 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Currently learning:**
+**MERN stack:**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Languages:** English · Sinhala · Tamil
 
 ---
 
